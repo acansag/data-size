@@ -39,3 +39,13 @@ int main()
 
 	return 0;
 }
+
+/*
+	additional info:
+
+	http://stackoverflow.com/questions/2053843/min-and-max-value-of-data-type-in-c
+	http://stackoverflow.com/questions/111928/is-there-a-printf-converter-to-print-in-binary-format
+	http://en.cppreference.com/w/c/types/limits
+
+*/
+
